@@ -1,0 +1,26 @@
+{
+  "name": "log4js-message-filter",
+  "version": "0.0.1",
+  "description": "A message filter for log4js-node",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/indexTests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "amqp": "",
+    "log4js": ""
+  }
+}
