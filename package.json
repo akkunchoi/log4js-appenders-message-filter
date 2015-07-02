@@ -1,5 +1,5 @@
 {
-  "name": "log4js-message-filter",
+  "name": "log4js-appenders-message-filter",
   "version": "0.0.1",
   "description": "A message filter for log4js-node",
   "main": "lib/index.js",
