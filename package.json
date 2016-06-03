@@ -11,16 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/akkunchoi/log4js-appenders-message-filter"
   },
-  "author": "",
+  "author": "akkunchoi@gmail.com",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": "",
+  "homepage": "https://github.com/akkunchoi/log4js-appenders-message-filter",
   "dependencies": {
-    "amqp": "",
     "log4js": ""
   }
 }
